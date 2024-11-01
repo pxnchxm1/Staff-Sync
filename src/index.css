@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Akshar:wght@300..700&family=Sen:wght@400..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Sen", sans-serif;
+}
+
+
+
